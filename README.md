@@ -1,9 +1,8 @@
-# Your Project's Title...
-Your project's description...
+# PGA Mitsubishi Electric Championship at Hualalai
 
 ## Environments
-- Preview: https://main--theplayers--hlxsites.hlx.page/
-- Live: https://main--theplayers--hlxsites.hlx.live/
+- Preview: https://main--pga-mitsubishi-electric-championship-at-hualalai.hlx.page/
+- Live: https://main--pga-mitsubishi-electric-championship-at-hualalai.hlx.live/
 
 ## Installation
 
