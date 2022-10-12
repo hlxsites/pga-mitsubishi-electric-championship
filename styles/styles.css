@@ -21,6 +21,7 @@
   --color-blue-95: #003360f2;
   --color-tan-95: #C2A36Ef2;
   --color-black: #000;
+  --color-black-95: #000000f2;
   --color-gray-dark: #4d4d4d;
   --color-gray: #999;
   --color-gray-light: #ccc;
@@ -28,10 +29,10 @@
   --color-white: #fff;
 
   /* colors assignments */
-  --link-color: var(--color-blue-dark);
-  --link-hover-color: var(--color-blue);
+  --link-color: var(--color-black);
+  --link-hover-color: var(--color-gray-dark);
   --background-color: var(--color-gray-lighter);
-  --overlay-background-color: var(--color-blue-lighter);
+  --overlay-background-color: var(--color-gray-lighter);
   --overlay-text-color: var(--color-white);
   --highlight-background-color: var(--color-white);
   --text-color: var(--color-gray-dark);
@@ -312,7 +313,7 @@ main .section > .default-content-wrapper h3,
 main .section > .default-content-wrapper h4,
 main .section > .default-content-wrapper h5,
 main .section > .default-content-wrapper h6 {
-  color: var(--color-blue);
+  color: var(--color-black);
   text-align: center;
   text-transform: uppercase;
 }
