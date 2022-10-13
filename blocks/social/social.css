@@ -1,7 +1,7 @@
 main .social-container {
-  --social-bg-color: var(--color-blue);
+  --social-bg-color: var(--color-black);
   --social-text-color: var(--overlay-text-color);
-  --social-card-bg-color: var(--color-blue-dark);
+  --social-card-bg-color: var(--color-gray-dark);
   --social-tweet-color: var(--color-tan);
 }
 

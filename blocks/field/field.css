@@ -1,5 +1,5 @@
 main .field {
-  --field-text-color: var(--color-blue);
+  --field-text-color: var(--color-black);
   --field-highlight-color: var(--color-tan);
 }
 
