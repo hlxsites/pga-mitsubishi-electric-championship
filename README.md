@@ -3,6 +3,7 @@
 ## Environments
 - Preview: https://main--pga-mitsubishi-electric-championship--hlxsites.hlx.page/
 - Live: https://main--pga-mitsubishi-electric-championship--hlxsites.hlx.live/
+- Prod: https://www.mecgolf.com
 
 ## Installation
 
